@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/quantum-entanglement-bridge.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.signal-verification]
+path = 'contracts/signal-verification.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

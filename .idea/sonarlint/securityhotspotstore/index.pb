@@ -9,3 +9,5 @@ Z
 *contracts/quantum-entanglement-bridge.clar,b/0/b0715c7868b39f525624b05ef58ef45652c5599d
 Y
 )tests/quantum-entanglement-bridge.test.ts,e/b/eb529676bcbff8acf0e04a0bfa386deddce7fb29
+R
+"contracts/signal-verification.clar,0/f/0fd1dc6e04271a1589cbb5ee55edba586e8aff94
