@@ -11,3 +11,5 @@ Y
 )tests/quantum-entanglement-bridge.test.ts,e/b/eb529676bcbff8acf0e04a0bfa386deddce7fb29
 R
 "contracts/signal-verification.clar,0/f/0fd1dc6e04271a1589cbb5ee55edba586e8aff94
+Q
+!tests/signal-verification.test.ts,4/5/45bd8d00fa4470da905d94064940f6b981795b95
