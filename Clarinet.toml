@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/message-protocol.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.quantum-entanglement-bridge]
+path = 'contracts/quantum-entanglement-bridge.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
